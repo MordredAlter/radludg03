@@ -1,4 +1,4 @@
-<strong>Programacion Web - Actividad 3</strong>
+<strong><h2>Programacion Web - Actividad 3</h2></strong>
 
 Pequeño experimento utilizando modelos 3d en javascript.
 
